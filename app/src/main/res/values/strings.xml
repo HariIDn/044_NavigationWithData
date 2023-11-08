@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kelas5</string>
+    <string name="back_btn">Kembali</string>
+    <string name="confrm">Konfirmasi</string>
+    <string name="nxt">Lanjut</string>
+    <string name="cncl">Batal</string>
+    <string name="vanila">Vanila</string>
+    <string name="lemon">Lemon</string>
+    <string name="original">Original</string>
+    <string name="milk">Milky</string>
+    <string name="lyche">Lyche</string>
+    <string name="order_sum">Ringkasan Order</string>
+    <string name="send">Send Order to Another App</string>
+    <string name="quantity">Jumlah</string>
+    <string name="flavor">Rasa</string>
+    <string name="subtotal_price">Subtotal: Rp %s</string>
+    <string name="total_price">Total: %s</string>
+</resources>
